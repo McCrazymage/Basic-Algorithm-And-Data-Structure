@@ -2,6 +2,7 @@
 
 Appropriate for most kind of data type
 
+email crazymage@pku.edu.cn
 */
 
 template<typename T1, typename T2>
