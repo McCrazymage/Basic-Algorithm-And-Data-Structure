@@ -9,7 +9,7 @@
 #include<iomanip>
 using namespace std;
 
-void insert_sort(int *A, int n)
+void insertion_sort(int *A, int n)
 {
 	int temp, j;
 	for (int i = 1; i < n; i++)
